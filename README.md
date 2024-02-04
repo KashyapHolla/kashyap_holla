@@ -1,2 +1,3 @@
-# portfolio_webpage
-This repo contains the code for my portfolio webpage
+# My_Portfolio
+This repository contains the code for my personal portfolio website.
+You can access my portfolio page here: 
